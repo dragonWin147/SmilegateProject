@@ -44,7 +44,6 @@ void updateUIPlay()
     Fl::unlock();
 }
 
-
 void sendMessage(client &clientC, websocketpp::connection_hdl hdl, StringBuffer &buffer)
 {
     std::cout << buffer.GetString() << std::endl;
@@ -184,9 +183,6 @@ int main()
             return;
         }
 
-        // Thiết lập các handler
-        // con->set_message_handler([](websocketpp::connection_hdl hdl, client::message_ptr msg)
-        //                          { std::cout << "Received: " << msg->get_payload() << std::endl; });
          con->set_message_handler(std::bind(&onMessage, std::placeholders::_1, std::placeholders::_2));
         con->set_open_handler(std::bind(&onOpen, &c, std::placeholders::_1));
         con->set_fail_handler([](websocketpp::connection_hdl hdl)
@@ -200,19 +196,12 @@ int main()
         // Chạy luồng WebSocket
         c.run(); });
 
-    // Fl::add_timeout(0.1, updateUI);
-    // Khởi tạo giao diện người dùng
-    // LoginWindow loginWindow;
     updateUI("");
     loginWindow.setLoginSuccessCallback(handleLogin);
     loginWindow.setPlayGameSuccessCallback(handlePlay);
     loginWindow.show();
 
     updateUI("init");
-    // Fl::add_timeout(0.1, updateUI);
-    // loginWindow.showAsync();
-
-    // Chờ luồng WebSocket kết thúc
     websocketThread.join();
 
     return 0;
