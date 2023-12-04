@@ -28,7 +28,6 @@ void showNotify(string msg)
 
 void updateUI(string reason)
 {
-    std::cout << "updateUI" << std::endl;
     Fl::lock();
     loginWindow.showNotify(reason);
     Fl::awake();
@@ -37,7 +36,6 @@ void updateUI(string reason)
 
 void updateUIPlay()
 {
-    std::cout << "updateUIPlay" << std::endl;
     Fl::lock();
     loginWindow.showPlayGame();
     Fl::awake();
@@ -201,7 +199,6 @@ int main()
     loginWindow.setPlayGameSuccessCallback(handlePlay);
     loginWindow.show();
 
-    updateUI("init");
     websocketThread.join();
 
     return 0;
