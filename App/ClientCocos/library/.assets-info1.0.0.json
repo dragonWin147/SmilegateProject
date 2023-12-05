@@ -1,0 +1,159 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/brian/Work/C++/ClientCocos/assets/Scene.meta": {
+      "time": 1701231437624.1846
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scene": {
+      "time": 1701231446335.9263,
+      "uuid": "a1e5991f-04fa-463b-9ce5-98932cde4e0f"
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts.meta": {
+      "time": 1701231444150.4775
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts": {
+      "time": 1701239825486.829,
+      "uuid": "03606d4f-a7f5-46dc-af60-d16b2a5be4a8"
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scene/main.scene.meta": {
+      "time": 1701231424756.4614
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scene/main.scene": {
+      "time": 1701246997102.276,
+      "uuid": "8b813115-1c4f-438d-9d5e-5d360ab39d72"
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/GameController.ts.meta": {
+      "time": 1701231456770.55
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/GameController.ts": {
+      "time": 1701247014888.544,
+      "uuid": "6ef43338-7113-499d-a214-4e928827795a"
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/SocketHandler.ts.meta": {
+      "time": 1701235701664.947
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/SocketHandler.ts": {
+      "time": 1701246919697.4165,
+      "uuid": "30869d4d-dc86-46a5-9339-bf44dd07ab3a"
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/KMD5.ts.meta": {
+      "time": 1701239825487.771
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/LobbyText.ts.meta": {
+      "time": 1701239825488.5503
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/KMD5.ts": {
+      "time": 1696120721667.1638,
+      "uuid": "c3013541-3e80-4bc7-b1e3-b6c835cd7763"
+    },
+    "/Users/brian/Work/C++/ClientCocos/assets/Scripts/LobbyText.ts": {
+      "time": 1701235952178.3408,
+      "uuid": "341cdd81-49b5-42d4-81e5-6c4849280e5b"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scene": {
+      "time": 1701231446335.9263,
+      "uuid": "a1e5991f-04fa-463b-9ce5-98932cde4e0f"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts": {
+      "time": 1701239825486.829,
+      "uuid": "03606d4f-a7f5-46dc-af60-d16b2a5be4a8"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/GameController.ts": {
+      "time": 1701575418454.8308,
+      "uuid": "6ef43338-7113-499d-a214-4e928827795a"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/KMD5.ts": {
+      "time": 1696120721667.1638,
+      "uuid": "c3013541-3e80-4bc7-b1e3-b6c835cd7763"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/LobbyText.ts": {
+      "time": 1701235952178.3408,
+      "uuid": "341cdd81-49b5-42d4-81e5-6c4849280e5b"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/SocketHandler.ts": {
+      "time": 1701574986718.0857,
+      "uuid": "30869d4d-dc86-46a5-9339-bf44dd07ab3a"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scene.meta": {
+      "time": 1701231437624.1846
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts.meta": {
+      "time": 1701231444150.4775
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/GameController.ts.meta": {
+      "time": 1701231456770.55
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/KMD5.ts.meta": {
+      "time": 1701239825487.771
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/LobbyText.ts.meta": {
+      "time": 1701239825488.5503
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scripts/SocketHandler.ts.meta": {
+      "time": 1701235701664.947
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scene/main.scene": {
+      "time": 1701575926352.6543,
+      "uuid": "8b813115-1c4f-438d-9d5e-5d360ab39d72"
+    },
+    "/Users/brian/Work/C++/App/ClientCocos/assets/Scene/main.scene.meta": {
+      "time": 1701231424756.4614
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scene": {
+      "time": 1701231446335.9263,
+      "uuid": "a1e5991f-04fa-463b-9ce5-98932cde4e0f"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts": {
+      "time": 1701239825486.829,
+      "uuid": "03606d4f-a7f5-46dc-af60-d16b2a5be4a8"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/GameController.ts": {
+      "time": 1701575418454.8308,
+      "uuid": "6ef43338-7113-499d-a214-4e928827795a"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/KMD5.ts": {
+      "time": 1696120721667.1638,
+      "uuid": "c3013541-3e80-4bc7-b1e3-b6c835cd7763"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/LobbyText.ts": {
+      "time": 1701235952178.3408,
+      "uuid": "341cdd81-49b5-42d4-81e5-6c4849280e5b"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/SocketHandler.ts": {
+      "time": 1701574986718.0857,
+      "uuid": "30869d4d-dc86-46a5-9339-bf44dd07ab3a"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scene.meta": {
+      "time": 1701231437624.1846
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts.meta": {
+      "time": 1701231444150.4775
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/GameController.ts.meta": {
+      "time": 1701231456770.55
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/KMD5.ts.meta": {
+      "time": 1701239825487.771
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/LobbyText.ts.meta": {
+      "time": 1701239825488.5503
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scripts/SocketHandler.ts.meta": {
+      "time": 1701235701664.947
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scene/main.scene": {
+      "time": 1701575926352.6543,
+      "uuid": "8b813115-1c4f-438d-9d5e-5d360ab39d72"
+    },
+    "/Users/brian/Work/C++/SmilegateProject/App/ClientCocos/assets/Scene/main.scene.meta": {
+      "time": 1701231424756.4614
+    }
+  },
+  "missing": {
+    "8b813115-1c4f-438d-9d5e-5d360ab39d72": {
+      "path": "/Users/brian/Work/C++/ClientCocos/assets/main.scene",
+      "time": 1701231424755.1736,
+      "removeTime": 1701231446336
+    }
+  }
+}

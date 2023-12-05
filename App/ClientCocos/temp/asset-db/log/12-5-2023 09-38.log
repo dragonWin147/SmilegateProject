@@ -1,0 +1,260 @@
+12-5-2023 09:38:03-log: Cannot access game frame or container.
+12-5-2023 09:38:03-debug: asset-db:require-engine-code (1520ms)
+12-5-2023 09:38:04-log: Cocos Creator v3.8.0
+12-5-2023 09:38:04-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:18.71MB, end 88.14MB, increase: 69.43MB
+12-5-2023 09:38:04-debug: [Assets Memory track]: asset-db-plugin-register: programming start:88.99MB, end 94.38MB, increase: 5.39MB
+12-5-2023 09:38:04-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:88.15MB, end 91.99MB, increase: 3.84MB
+12-5-2023 09:38:04-debug: asset-db:worker-init: initPlugin (302ms)
+12-5-2023 09:38:04-debug: [Assets Memory track]: asset-db:worker-init start:18.71MB, end 92.04MB, increase: 73.33MB
+12-5-2023 09:38:04-debug: Run asset db hook engine-extends:beforePreStart ...
+12-5-2023 09:38:04-debug: Run asset db hook programming:beforePreStart success!
+12-5-2023 09:38:04-debug: Run asset db hook programming:beforePreStart ...
+12-5-2023 09:38:04-debug: Run asset db hook engine-extends:beforePreStart success!
+12-5-2023 09:38:05-debug: asset-db:worker-init (3076ms)
+12-5-2023 09:38:05-debug: asset-db-hook-programming-beforePreStart (792ms)
+12-5-2023 09:38:05-debug: asset-db-hook-engine-extends-beforePreStart (792ms)
+12-5-2023 09:38:05-debug: Preimport db internal success
+12-5-2023 09:38:05-debug: Preimport db assets success
+12-5-2023 09:38:05-debug: Run asset db hook programming:afterPreStart ...
+12-5-2023 09:38:08-debug: run package(builder) handler(enable) start
+12-5-2023 09:38:16-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:109.29MB, end 276.83MB, increase: 167.55MB
+12-5-2023 09:38:16-debug: run package(builder) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(shortcuts) handler(enable) start
+12-5-2023 09:38:16-debug: run package(animation-graph) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(about) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(assets) handler(enable) start
+12-5-2023 09:38:16-debug: run package(assets) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(console) handler(enable) start
+12-5-2023 09:38:16-debug: run package(console) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(crash-reporter) handler(enable) start
+12-5-2023 09:38:16-debug: run package(crash-reporter) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(extension) handler(enable) start
+12-5-2023 09:38:16-debug: run package(extension) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(hierarchy) handler(enable) start
+12-5-2023 09:38:16-debug: run package(hierarchy) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(inspector) handler(enable) start
+12-5-2023 09:38:16-debug: run package(inspector) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(light-probe) handler(enable) start
+12-5-2023 09:38:16-debug: run package(about) handler(enable) start
+12-5-2023 09:38:16-debug: run package(lightmap) handler(enable) start
+12-5-2023 09:38:16-debug: run package(lightmap) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(node-library) handler(enable) start
+12-5-2023 09:38:16-debug: run package(shortcuts) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(package-asset) handler(enable) start
+12-5-2023 09:38:16-debug: run package(package-asset) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(process) handler(enable) start
+12-5-2023 09:38:16-debug: run package(process) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(reference-image) handler(enable) start
+12-5-2023 09:38:16-debug: run package(reference-image) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(reflection-probe) handler(enable) start
+12-5-2023 09:38:16-debug: run package(reflection-probe) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(engine-extends) handler(enable) start
+12-5-2023 09:38:16-debug: run package(engine-extends) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(adsense-h5g-plugin) handler(enable) start
+12-5-2023 09:38:16-debug: run package(adsense-h5g-plugin) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(alipay-mini-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(alipay-mini-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(light-probe) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(android) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(bytedance-mini-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(bytedance-mini-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(certificate) handler(enable) start
+12-5-2023 09:38:16-debug: run package(certificate) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(channel-upload-tools) handler(enable) start
+12-5-2023 09:38:16-debug: run package(channel-upload-tools) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(fb-instant-games) handler(enable) start
+12-5-2023 09:38:16-debug: run package(fb-instant-games) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(huawei-agc) handler(enable) start
+12-5-2023 09:38:16-debug: run package(animation-graph) handler(enable) start
+12-5-2023 09:38:16-debug: run package(huawei-quick-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(huawei-quick-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(ios) handler(enable) start
+12-5-2023 09:38:16-debug: run package(node-library) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(linux) handler(enable) start
+12-5-2023 09:38:16-debug: run package(linux) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(mac) handler(enable) start
+12-5-2023 09:38:16-debug: run package(mac) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(native) handler(enable) start
+12-5-2023 09:38:16-debug: run package(native) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(ohos) handler(enable) start
+12-5-2023 09:38:16-debug: run package(ohos) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(openharmony) handler(enable) start
+12-5-2023 09:38:16-debug: run package(openharmony) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(oppo-mini-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(oppo-mini-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(runtime-dev-tools) handler(enable) start
+12-5-2023 09:38:16-debug: run package(runtime-dev-tools) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(taobao-creative-app) handler(enable) start
+12-5-2023 09:38:16-debug: run package(taobao-creative-app) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(taobao-mini-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(taobao-mini-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(vivo-mini-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(huawei-agc) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(web-desktop) handler(enable) start
+12-5-2023 09:38:16-debug: run package(web-desktop) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(web-mobile) handler(enable) start
+12-5-2023 09:38:16-debug: run package(web-mobile) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(wechatgame) handler(enable) start
+12-5-2023 09:38:16-debug: run package(wechatgame) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(wechatprogram) handler(enable) start
+12-5-2023 09:38:16-debug: run package(wechatprogram) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(ios) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(windows) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(xiaomi-quick-game) handler(enable) start
+12-5-2023 09:38:16-debug: run package(windows) handler(enable) start
+12-5-2023 09:38:16-debug: run package(cocos-service) handler(enable) start
+12-5-2023 09:38:16-debug: run package(cocos-service) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(im-plugin) handler(enable) start
+12-5-2023 09:38:16-debug: run package(im-plugin) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(prefab380fix) handler(enable) start
+12-5-2023 09:38:16-debug: run package(android) handler(enable) start
+12-5-2023 09:38:16-debug: run package(placeholder) handler(enable) start
+12-5-2023 09:38:16-debug: run package(placeholder) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(xiaomi-quick-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(vivo-mini-game) handler(enable) success!
+12-5-2023 09:38:16-debug: run package(prefab380fix) handler(enable) success!
+12-5-2023 09:38:17-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-5-2023 09:38:17-debug: Run asset db hook engine-extends:afterPreStart success!
+12-5-2023 09:38:17-debug: Start up the 'internal' database...
+12-5-2023 09:38:17-debug: Run asset db hook engine-extends:afterPreStart ...
+12-5-2023 09:38:17-debug: [Assets Memory track]: asset-db:worker-init: preStart start:92.04MB, end 279.04MB, increase: 187.00MB
+12-5-2023 09:38:17-debug: Run asset db hook programming:afterPreStart success!
+12-5-2023 09:38:17-debug: asset-db-hook-programming-afterPreStart (11970ms)
+12-5-2023 09:38:17-debug: asset-db:worker-effect-data-processing (54ms)
+12-5-2023 09:38:17-debug: asset-db-hook-engine-extends-afterPreStart (54ms)
+12-5-2023 09:38:17-debug: start asset-db with asset: 459
+12-5-2023 09:38:17-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:109.32MB, end 282.05MB, increase: 172.73MB
+12-5-2023 09:38:17-debug: Start up the 'assets' database...
+12-5-2023 09:38:17-debug: start asset-db with asset: 7
+12-5-2023 09:38:17-debug: asset-db:worker-startup-database[internal] (12164ms)
+12-5-2023 09:38:17-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:109.10MB, end 282.09MB, increase: 173.00MB
+12-5-2023 09:38:17-debug: [Assets Memory track]: asset-db:worker-init: startup start:279.05MB, end 282.10MB, increase: 3.05MB
+12-5-2023 09:38:17-debug: asset-db:worker-startup-database[assets] (12026ms)
+12-5-2023 09:38:17-debug: asset-db:start-database (12840ms)
+12-5-2023 09:38:17-debug: asset-db:ready (18891ms)
+12-5-2023 09:38:17-debug: init worker message success
+12-5-2023 09:38:17-debug: programming:execute-script (6ms)
+12-5-2023 09:38:17-debug: [Build Memory track]: builder:worker-init start:277.26MB, end 291.82MB, increase: 14.56MB
+12-5-2023 09:38:18-debug: builder:worker-init (579ms)
+12-5-2023 09:38:19-debug: programming:execute-script (6ms)
+12-5-2023 09:38:24-debug: Query all assets info in project
+12-5-2023 09:38:24-debug: init custom config: keepNodeUuid: false, useCache: true
+12-5-2023 09:38:24-debug:   Number of all scenes: 1
+12-5-2023 09:38:24-debug:   Number of all scripts: 5
+12-5-2023 09:38:24-debug:   Number of other assets: 319
+12-5-2023 09:38:24-debug: reload all scripts.
+12-5-2023 09:38:24-debug: Incremental keys: 
+12-5-2023 09:38:24-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+12-5-2023 09:38:24-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js is not in module cache!
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js" loaded.
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js is not in module cache!
+12-5-2023 09:38:24-debug: [[Executor]] Register DebugViewRuntimeControl
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/d5/d5608b38b037f8fab3d80ad8b6997514f74129c4.js" loaded.
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/67/67e2318203b60ce3bbd8f775f847937a1a9f3062.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/67/67e2318203b60ce3bbd8f775f847937a1a9f3062.js is not in module cache!
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js is not in module cache!
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/0f/0f891bcb8e7d9c8fe73b14e53ea96215be5feda2.js" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Register LobbyText
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/0a/0affe657831eb86af3b130aaf41e92c96af00c8e.js" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Register GameController
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/67/67e2318203b60ce3bbd8f775f847937a1a9f3062.js" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Register SocketHandler
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/0f/0f891bcb8e7d9c8fe73b14e53ea96215be5feda2.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/0f/0f891bcb8e7d9c8fe73b14e53ea96215be5feda2.js is not in module cache!
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/0a/0affe657831eb86af3b130aaf41e92c96af00c8e.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/0a/0affe657831eb86af3b130aaf41e92c96af00c8e.js is not in module cache!
+12-5-2023 09:38:24-debug: /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/11/112400aabecbd966b15c9d326c164fb83f767042.js resolved to /Users/brian/Work/C++/SmilegateProject/App/ClientCocos/temp/programming/packer-driver/targets/editor/chunks/11/112400aabecbd966b15c9d326c164fb83f767042.js is not in module cache!
+12-5-2023 09:38:24-debug: Query asset bundle start0%
+12-5-2023 09:38:24-debug: // ---- build task Query asset bundle ----
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js" loaded.
+12-5-2023 09:38:24-debug: [[Executor]] Register KMD5
+12-5-2023 09:38:24-debug: [[Executor]] Module "pack:///chunks/11/112400aabecbd966b15c9d326c164fb83f767042.js" loaded.
+12-5-2023 09:38:24-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-5-2023 09:38:24-debug: // ---- build task Query asset bundle ---- (18ms)
+12-5-2023 09:38:24-debug: run build task Query asset bundle success in 18 ms √5%
+12-5-2023 09:38:24-debug: [Build Memory track]: Query asset bundle start:290.38MB, end 292.77MB, increase: 2.38MB
+12-5-2023 09:38:24-debug: Query asset bundle start5%
+12-5-2023 09:38:24-debug: // ---- build task Query asset bundle ----
+12-5-2023 09:38:24-debug: run build task Query asset bundle success in 0 ms √10%
+12-5-2023 09:38:24-debug: [Build Memory track]: Query asset bundle start:292.77MB, end 292.78MB, increase: 10.64KB
+12-5-2023 09:38:24-debug: Sort some build options to settings.json start10%
+12-5-2023 09:38:24-debug: // ---- build task Sort some build options to settings.json ----
+12-5-2023 09:38:24-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+12-5-2023 09:38:24-debug: [Build Memory track]: Sort some build options to settings.json start:292.79MB, end 292.80MB, increase: 10.65KB
+12-5-2023 09:38:24-debug: Fill script data to settings start12%
+12-5-2023 09:38:24-debug: // ---- build task Fill script data to settings ----
+12-5-2023 09:38:24-debug: // ---- build task Fill script data to settings ---- (1ms)
+12-5-2023 09:38:24-debug: // ---- build task Sort some build options to settings.json ----
+12-5-2023 09:38:24-debug: Sort some build options to settings.json start13%
+12-5-2023 09:38:24-debug: [Build Memory track]: Fill script data to settings start:292.81MB, end 292.82MB, increase: 13.05KB
+12-5-2023 09:38:24-debug: run build task Fill script data to settings success in 1 ms √13%
+12-5-2023 09:38:24-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+12-5-2023 09:38:24-debug: run build task Sort some build options to settings.json success in 4 ms √15%
+12-5-2023 09:38:24-debug: [Build Memory track]: Sort some build options to settings.json start:292.83MB, end 292.89MB, increase: 59.92KB
+12-5-2023 09:49:25-debug: refresh db internal success
+12-5-2023 09:49:25-debug: refresh db assets success
+12-5-2023 09:49:25-debug: Run asset db hook engine-extends:afterRefresh ...
+12-5-2023 09:49:25-debug: Run asset db hook engine-extends:afterRefresh success!
+12-5-2023 09:49:25-debug: asset-db:refresh-all-database (111ms)
+12-5-2023 09:49:25-debug: asset-db:worker-effect-data-processing (1ms)
+12-5-2023 09:49:25-debug: asset-db-hook-engine-extends-afterRefresh (1ms)

@@ -1,0 +1,42 @@
+{
+  "8b813115-1c4f-438d-9d5e-5d360ab39d72": {
+    "url": "db://assets/Scene/main.scene",
+    "value": {
+      "depends": [
+        "8b813115-1c4f-438d-9d5e-5d360ab39d72",
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "6ef43338-7113-499d-a214-4e928827795a"
+      ]
+    }
+  },
+  "a1e5991f-04fa-463b-9ce5-98932cde4e0f": {
+    "url": "db://assets/Scene",
+    "value": {}
+  },
+  "03606d4f-a7f5-46dc-af60-d16b2a5be4a8": {
+    "url": "db://assets/Scripts",
+    "value": {}
+  },
+  "6ef43338-7113-499d-a214-4e928827795a": {
+    "url": "db://assets/Scripts/GameController.ts",
+    "value": {}
+  },
+  "30869d4d-dc86-46a5-9339-bf44dd07ab3a": {
+    "url": "db://assets/Scripts/SocketHandler.ts",
+    "value": {}
+  },
+  "c3013541-3e80-4bc7-b1e3-b6c835cd7763": {
+    "url": "db://assets/Scripts/KMD5.ts",
+    "value": {}
+  },
+  "341cdd81-49b5-42d4-81e5-6c4849280e5b": {
+    "url": "db://assets/Scripts/LobbyText.ts",
+    "value": {}
+  }
+}

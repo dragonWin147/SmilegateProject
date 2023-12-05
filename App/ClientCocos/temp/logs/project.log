@@ -1,0 +1,7 @@
+12-5-2023 09:37:56 - log: Load engine in /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine
+12-5-2023 09:37:57 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+12-5-2023 09:37:57 - log: Register native engine in /Applications/Cocos/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+12-5-2023 09:38:19 - info: [Scene] [PHYSICS]: using builtin.
+12-5-2023 09:38:19 - log: [Scene] Cocos Creator v3.8.0
+12-5-2023 09:38:19 - info: [Scene] Forward render pipeline initialized.
+12-5-2023 09:38:19 - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
