@@ -12,3 +12,10 @@
 
 **Biên dich**
  - Tôi không sử dụng make file nên vui lòng chạy file `Server.cpp` 
+ - Chúng ta có 1 số tài khoản được tạo sẵn, bạn vui lòng sử dụng trong số này
+  
+ >  dbUserGame["dev111"] = "123123";
+    dbUserGame["dev112"] = "123123";
+    dbUserGame["dev113"] = "123123";
+    dbUserGame["dev114"] = "123123";
+    dbUserGame["dev115"] = "123123";

@@ -1,0 +1,47 @@
+{
+  "homebrew_version": "4.1.10-11-g502434c",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "lib/cmake/RapidJSON/RapidJSONConfig.cmake",
+    "lib/pkgconfig/RapidJSON.pc"
+  ],
+  "time": 1701241747,
+  "source_modified_time": 1472111945,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "1.1.0",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/r/rapidjson.rb",
+    "tap_git_head": null,
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12.6",
+    "cpu_family": "dunno",
+    "xcode": "14.2",
+    "clt": "14.2.0.0.1.1668646533",
+    "preferred_perl": "5.30"
+  }
+}
