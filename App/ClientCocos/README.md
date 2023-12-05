@@ -1,6 +1,6 @@
 ## Giới thiệu
 
-- Tôi có viết một server bằng Cocos Creator sử dụng visual studio code
+- Tôi có viết một client bằng Cocos Creator sử dụng visual studio code
 - Chương trình kết nối với server local `ws://localhost:9002`
 
 ## Cài đặt
