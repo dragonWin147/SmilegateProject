@@ -1,0 +1,80 @@
+{
+  "homebrew_version": "3.3.14-12-g89ab131",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+
+  ],
+  "time": 1701228072,
+  "source_modified_time": 1587320717,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "icu4c",
+      "version": "73.2",
+      "revision": 0,
+      "pkg_version": "73.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "xz",
+      "version": "5.4.5",
+      "revision": 0,
+      "pkg_version": "5.4.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "lz4",
+      "version": "1.9.4",
+      "revision": 0,
+      "pkg_version": "1.9.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zstd",
+      "version": "1.5.5",
+      "revision": 0,
+      "pkg_version": "1.5.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "boost",
+      "version": "1.83.0",
+      "revision": 0,
+      "pkg_version": "1.83.0",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "0.8.2",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/w/websocketpp.rb",
+    "tap_git_head": null,
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12",
+    "cpu_family": "arm_firestorm_icestorm",
+    "xcode": "13.2.1",
+    "clt": "13.2.0.0.1.1638488800",
+    "preferred_perl": "5.30"
+  }
+}

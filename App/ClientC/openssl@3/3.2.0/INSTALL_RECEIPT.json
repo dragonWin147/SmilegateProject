@@ -1,0 +1,59 @@
+{
+  "homebrew_version": "4.1.21-40-g942e77d",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "bin/c_rehash",
+    "lib/pkgconfig/libcrypto.pc",
+    "lib/pkgconfig/libssl.pc",
+    "lib/pkgconfig/openssl.pc",
+    "share/man/man1/openssl-ca.1ssl",
+    "share/man/man7/fips_module.7ssl",
+    "share/man/man7/ossl-guide-tls-introduction.7ssl"
+  ],
+  "time": 1701315061,
+  "source_modified_time": 1700745619,
+  "compiler": "clang",
+  "aliases": [
+    "openssl",
+    "openssl@3.2"
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "ca-certificates",
+      "version": "2023-08-22",
+      "revision": 0,
+      "pkg_version": "2023-08-22",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "3.2.0",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Aliases/openssl",
+    "tap_git_head": null,
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 13.5",
+    "cpu_family": "penryn",
+    "xcode": "14.3",
+    "clt": "14.3.1.0.1.1683849156",
+    "preferred_perl": "5.30"
+  }
+}
