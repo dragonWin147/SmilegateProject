@@ -86,7 +86,10 @@
         "shared_mutex": "cpp",
         "typeindex": "cpp",
         "strstream": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "cfenv": "cpp",
+        "charconv": "cpp",
+        "csetjmp": "cpp"
     },
 
     "C_Cpp.default.includePath": [
